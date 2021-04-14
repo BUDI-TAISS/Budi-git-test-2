@@ -11,5 +11,10 @@
     echo('Hallo World');
     ?>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id autem natus fugit nisi sit, dolorem nostrum illum cumque. Tempora cupiditate pariatur veniam quaerat. Quis, aspernatur assumenda. Odio commodi quibusdam eaque!</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 </html>
